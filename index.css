@@ -58,3 +58,8 @@
     flex-wrap: wrap;
     
 }
+
+.top-btn{
+    margin: 7px;
+    cursor: pointer;
+}
